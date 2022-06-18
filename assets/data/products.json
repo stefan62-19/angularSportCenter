@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Iron 4586",
+        "brand": "Philips",
+        "category": "Irons",
+        "price": 25.25
+    },
+    {
+        "id": 2,
+        "name": "Fridge K45L",
+        "brand": "Samsung",
+        "category": "Fridge",
+        "price": 999.99
+    },
+    {
+        "id": 3,
+        "name": "Iron SS77",
+        "brand": "Bosch",
+        "category": "Irons",
+        "price": 50.99
+    }
+]
