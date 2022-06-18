@@ -1,0 +1,13 @@
+.navigation ul{
+    list-style-type: none;
+    display: flex;
+    background-color: azure;
+}
+.navigation ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color: brown;
+}
+.active{
+    color: green !important;
+}
